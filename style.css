@@ -1,0 +1,220 @@
+@font-face {
+    font-family: dimo;
+    src: url('w-7/DimorDiamond.otf');
+    font-family: dimor;
+    src: url('w-7/Dimor.0tf');
+    font-family: dimord;
+    src: url('w-7/DimorOutlineA.otf');
+    font-family: dimorin;
+    src: url('w-7/DimorInlineA.otf');
+
+}
+
+
+.bg_header{
+    background-image: url('w-7/BackgroundImage\ \(1\).png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav_text{
+    color: #b09165;
+}
+.nav_button{
+    background-color:#b09165 ;
+}
+.text_font
+{
+    font-family: dimo;
+    color: #b09165;
+    padding-top: 200px;
+    padding-left: 110px
+}
+.ten{
+    font-family: dimo;
+    color: #b09165;
+    padding-top: 2px;
+    padding-left: 230px; 
+    text-shadow: px 1px #b09165; 
+
+}
+.special{
+    font-family: fantasy;
+    font-size: medium;
+    
+}
+.bg_header1{
+
+    background-image: url('w-7/BackgroundImage\ \(1\).png');
+    background-size: cover;
+}
+.text{
+    color: #b09165;
+}
+.taste
+{
+    font-family: fantasy;
+}
+.enjoy{
+    font-family: dimo;
+}
+.text2{
+    color: #b09165;
+}
+.bur1{
+    font-size: 20px;
+    font-family: fantasy;
+    padding-left:  60px;
+}
+.text3
+{
+    color: #b09165;
+    padding-top: 120px;
+}
+.text4
+{
+    background-image: url('w-7/1.png');
+    background-repeat: no-repeat;
+    padding: 100%;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.phot1{
+    padding-top: 300px;
+    padding-left: 100px;
+}
+p{
+    color: #b09165;
+    font-family: dimo;
+    text-shadow: 0px 0px 10px #b09165;
+}
+.bg_text5{
+    background-image: url('w-7/2.png' );
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    padding-top: 30px;
+    width: 600px;
+    height: 50%;
+}
+.phot2
+{
+    padding-top: 300px;
+}
+.phot3
+{
+    padding-top: 600px;
+    
+}
+.disc
+{
+    color: #b09165;
+    font-family:dimo ;
+    padding-top: 100px;
+    position: absolute;
+ left: 700px;
+}
+.event
+{
+    color: #b09165;
+    font-family:dimod ;
+    padding-top: 140px;
+    position: absolute;
+ left: 600px;
+}
+.parag
+{
+    color: #b09165;
+    font-family:dimod ;
+    padding-top: 200px;
+    position: absolute;
+ left: 350px; 
+}
+.imgg
+{ 
+    
+    padding-top: 250px;
+    position: absolute;
+ left: 450px; 
+}
+.side{
+    padding-top: 60px;
+    
+}
+.rese
+{
+    color: #b09165;
+    font-family: dimor;
+    padding-top: 80px;
+
+}
+.book{
+    color: #b09165;
+    font-family: dimorin;
+    position: absolute;
+    left: 565px;
+}
+.form
+{
+    padding: 30px;
+}
+.input1
+{
+    color: #b09165;
+    background-color: black;
+    border: 1px solid #b09165;
+    position: absolute;
+    top: 3300px;
+    left: 60px;
+    border-radius: 5px;
+}
+.input2
+{
+    color: #b09165;
+    background-color: black;
+    border: 1px solid #b09165;
+    position: absolute;
+    top: 3300px;
+    left: 270px;
+    border-radius: 5px;
+}
+.input3
+{
+    color: #b09165;
+    background-color: black;
+    border: 1px solid #b09165;
+    position: absolute;
+    top: 3350px;
+    left: 60px;
+    border-radius: 5px;
+    
+}
+.input4
+{
+    color: #b09165;
+    background-color: black;
+    border: 1px solid #b09165;
+    position: absolute;
+    top: 3350px;
+    left: 270px;
+    border-radius: 5px;
+}
+.input5
+{
+    color: #b09165;
+    background-color: black;
+    border: 1px solid #b09165;
+    position: absolute;
+    top: 3400px;
+    left: 60px;
+    border-radius: 5px;
+}
+.btn5
+{
+    color: #b09165;
+    background-color: black;
+    border: 1px solid #b09165;
+    position: absolute;
+    top: 3400px;
+    left: 270px;
+    border-radius: 5px
+    
+}
